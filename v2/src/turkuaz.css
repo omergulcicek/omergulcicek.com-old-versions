@@ -1,0 +1,324 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+@-ms-viewport {
+  width: device-width;
+}
+
+::selection {
+  background-color: #050505;
+  color: #fff;
+}
+
+::-webkit-scrollbar {
+  background-color: #f5f5f5;
+  box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
+  height: 8px;
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #000;
+}
+
+html {
+  font-family: "Open Sans", sans-serif;
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  color: #252525;
+  display: flex;
+  flex-direction: column;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  margin: 0;
+  min-height: 100vh;
+}
+
+hr {
+  background-color: #f5f5f5;
+  border: none;
+  height: 2px;
+  margin: 16px 0;
+}
+
+svg {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+strong {
+  font-weight: bolder;
+}
+
+a {
+  background-color: transparent;
+  color: #2196f3;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #0d47a1;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+p {
+  letter-spacing: 0.5px;
+  line-height: 1.7;
+  margin-bottom: 16px;
+  margin-top: 0;
+}
+
+h1,
+h2,
+h3,
+h5 {
+  margin-bottom: 8px;
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+h2 {
+  font-size: 22px;
+}
+
+h3 {
+  font-size: 20px;
+}
+
+h5 {
+  font-size: 16px;
+}
+
+@media (min-width: 992px) {
+  h1 {
+    font-size: 40px;
+  }
+  h2 {
+    font-size: 32px;
+  }
+  h3 {
+    font-size: 28px;
+  }
+  h5 {
+    font-size: 20px;
+  }
+}
+
+.container {
+  width: 100%;
+  padding-right: 16px;
+  padding-left: 16px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -16px;
+  margin-left: -16px;
+}
+
+.ck12,
+.ck,
+.o6,
+.b4,
+.b6,
+.b8 {
+  position: relative;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 16px;
+  padding-left: 16px;
+}
+
+.ck {
+  -ms-flex-preferred-size: 0;
+  flex-basis: 0;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  max-width: 100%;
+}
+
+.ck12 {
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
+.orta-ck {
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  text-align: center;
+}
+
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+  .o6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+  .o6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+  .b4 {
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 33.333333%;
+  }
+  .b6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+  }
+  .b8 {
+    -ms-flex: 0 0 66.666667%;
+    flex: 0 0 66.666667%;
+    max-width: 66.666667%;
+  }
+  .bas-b {
+    -webkit-box-pack: start;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    text-align: start;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+
+.btn:not(:disabled) {
+  cursor: pointer;
+}
+
+.etiket {
+  background-color: #eee;
+  border-radius: 50px;
+  cursor: default;
+  display: inline-block;
+  font-size: 14px;
+  line-height: 32px;
+  padding: 0 12px;
+  transition: 0.15s ease;
+  user-select: none;
+}
+
+.etiket:hover {
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+.etiket:active {
+  box-shadow: inset 0 0 100px rgba(0, 0, 0, 0.1);
+}
+
+.kutu {
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.15), 0 2px 10px 0 rgba(0, 0, 0, 0.1);
+  margin-bottom: 32px;
+  padding: 24px;
+}
+
+.kart {
+  border-radius: 8px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.15), 0 2px 10px 0 rgba(0, 0, 0, 0.1);
+  color: #555;
+  display: flex;
+  flex-direction: column;
+  font-size: 15px;
+  margin-bottom: 32px;
+  position: relative;
+  text-align: center;
+  width: 100%;
+}
+
+.kart--dar {
+  margin-top: 16px;
+}
+
+.kart--genis {
+  box-shadow: none;
+}
+
+.kart__resim {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.2), 0 4px 15px 0 rgba(0, 0, 0, 0.15);
+  overflow: hidden;
+  z-index: 1;
+}
+
+.kart--dar .kart__resim,
+.kart--genis .kart__resim {
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+.kart__resim img {
+  cursor: pointer;
+  vertical-align: middle;
+  transform: scale(1.01);
+  transition: 0.1s;
+  width: 100%;
+}
+
+.kart__resim:hover img {
+  transform: scale(1.025);
+}
+
+.kart__icerik {
+  background-color: #fff;
+  border-radius: 8px;
+  padding: 24px;
+}
+
+.kart--dar .kart__resim {
+  margin-left: 5%;
+  margin-right: 5%;
+  margin-top: -16px;
+}
+
+.kart--genis .kart__icerik {
+  border-radius: 8px;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.15), 0 2px 10px 0 rgba(0, 0, 0, 0.1);
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.kart__baslik {
+  text-transform: capitalize;
+}

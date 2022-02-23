@@ -1,0 +1,19 @@
+:root {
+  --c-background: #f7f7f7;
+  --c-theme: #4360ff;
+  --c-text: #1b1b1b;
+  --c-grey: #585858;
+  --f-size: 16px;
+  --f-size-h1: 32px;
+  --f-size-h2: 24px;
+  --f-size-subtitle: 16px;
+  --g-transition: 240ms;
+}
+
+@media (min-width: 992px) {
+  :root {
+    --f-size: 18px;
+    --f-size-h1: 36px;
+    --f-size-h2: 30px;
+  }
+}
