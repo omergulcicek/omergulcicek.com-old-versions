@@ -1,0 +1,32 @@
+{
+  "items": [
+    {
+      "title": "Ana Sayfa",
+      "link": "/"
+    },
+    {
+      "title": "Blog",
+      "link": "/blog"
+    },
+    {
+      "title": "Projelerim",
+      "link": "/projects"
+    },
+    {
+      "title": "Eğitim",
+      "link": "/education"
+    },
+    {
+      "title": "Seyahat",
+      "link": "/travel"
+    },
+    {
+      "title": "Çalışma Masam",
+      "link": "/desk"
+    },
+    {
+      "title": "Hakkımda",
+      "link": "/about"
+    }
+  ]
+}

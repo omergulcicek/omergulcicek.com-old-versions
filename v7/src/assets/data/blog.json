@@ -1,0 +1,196 @@
+{
+  "items": [
+    {
+      "title": "Walter Isaacson - Geleceği Keşfedenler",
+      "link": "walter-isaacson-gelecegi-kesfedenler",
+      "date": "2017/12/09",
+      "category": "Kitap"
+    },
+    {
+      "title": "JSX Nedir?",
+      "link": "jsx-nedir",
+      "date": "2017/12/03",
+      "category": "Yazılım"
+    },
+    {
+      "title": "The Imitation Game",
+      "link": "the-imitation-game",
+      "date": "2018/12/03",
+      "category": "Film"
+    },
+    {
+      "title": "Günümüz Türkiye'si",
+      "link": "gunumuz-turkiyesi",
+      "date": "2019/01/08",
+      "category": "Kişisel"
+    },
+    {
+      "title": "2019 Değerlendirmesi",
+      "link": "2019-degerlendirmesi",
+      "date": "2019/12/31",
+      "category": "Kişisel"
+    },
+    {
+      "title": "Logoları CSS ile Hizalama",
+      "link": "logolari-css-ile-hizalama",
+      "date": "2020/09/12",
+      "category": "Yazılım"
+    },
+    {
+      "link": "resimlerde-srcset-kullanimi",
+      "title": "Resimlerde Srcset Kullanımı",
+      "date": "2020/09/13",
+      "category": "Yazılım"
+    },
+    {
+      "title": "Google Fontları Daha Hızlı Yüklemek",
+      "link": "google-fontlari-daha-hizli-yuklemek",
+      "date": "2020/09/29",
+      "category": "Yazılım"
+    },
+    {
+      "title": "Focus ve Focus-Within Farkı",
+      "link": "focus-ve-focus-within-farki",
+      "date": "2020/10/10",
+      "category": "Yazılım"
+    },
+    {
+      "title": "Linkleri Yeni Sekmede Açmak",
+      "link": "linkleri-yeni-sekmede-acmak",
+      "date": "2020/10/30",
+      "category": "Yazılım"
+    },
+    {
+      "title": "MJML ile Responsive Mail Template",
+      "link": "mjml-ile-responsive-mail-template",
+      "date": "2020/11/13",
+      "category": "Yazılım"
+    },
+    {
+      "title": "The Queen's Gambit",
+      "link": "the-queens-gambit",
+      "date": "2020/11/29",
+      "category": "Dizi"
+    },
+    {
+      "title": "2020 Değerlendirmesi",
+      "link": "2020-degerlendirmesi",
+      "date": "2020/12/31",
+      "category": "Kişisel"
+    },
+    {
+      "title": "2021 Hedeflerim",
+      "link": "2021-hedeflerim",
+      "date": "2021/01/02",
+      "category": "Kişisel"
+    },
+    {
+      "title": "React Componentini Npm Paketi Yapmak",
+      "link": "react-componentini-npm-paketi-yapmak",
+      "date": "2021/01/22",
+      "category": "Yazılım"
+    },
+    {
+      "title": "Japonizm",
+      "link": "japonizm",
+      "date": "2021/02/21",
+      "category": "Kitap"
+    },
+    {
+      "title": "Macbook Pro M1 Deneyimlerim",
+      "link": "macbook-pro-m1-deneyimlerim",
+      "date": "2021/02/22",
+      "category": "Kişisel"
+    },
+    {
+      "title": "Miyop Lazer Göz Ameliyatı",
+      "link": "miyop-lazer-goz-ameliyati",
+      "date": "2021/03/29",
+      "category": "Kişisel"
+    },
+    {
+      "title": "CSS Mantıksal Özellikler",
+      "link": "css-mantiksal-ozellikler",
+      "date": "2021/03/28",
+      "category": "Yazılım"
+    },
+    {
+      "title": "Cep Herkülü: Naim Süleymanoğlu",
+      "link": "cep-herkulu-naim-suleymanoglu",
+      "date": "2021/05/08",
+      "category": "Film"
+    },
+    {
+      "title": "Renk Kontrastını Hesaplama",
+      "link": "renk-kontrastini-hesaplama",
+      "date": "2021/05/29",
+      "category": "Yazılım"
+    },
+    {
+      "title": "CSS'te Min Max ve Clamp Fonksiyonları",
+      "link": "csste-min-max-ve-clamp-fonksiyonlari",
+      "date": "2021/06/27",
+      "category": "Yazılım"
+    },
+    {
+      "title": "İzmir, Marmaris, Ölüdeniz Tatili",
+      "link": "izmir-marmaris-oludeniz-tatili",
+      "date": "2021/08/09",
+      "category": "Kişisel"
+    },
+    {
+      "title": "JavaScript Selectorlerinin Çalışma Hızları",
+      "link": "javascript-selectorlerinin-calisma-hizlari",
+      "date": "2021/10/29",
+      "category": "Yazılım"
+    },
+    {
+      "title": "CSS Container Sorguları",
+      "link": "css-container-sorgulari",
+      "date": "2021/11/26",
+      "category": "Yazılım"
+    },
+    {
+      "title": "2021 Değerlendirmesi",
+      "link": "2021-degerlendirmesi",
+      "date": "2021/12/31",
+      "category": "Kişisel"
+    },
+    {
+      "title": "2022 Hedeflerim",
+      "link": "2022-hedeflerim",
+      "date": "2022/01/01",
+      "category": "Kişisel"
+    },
+    {
+      "title": "Styled Component ile Dinamik Css Yazmak",
+      "link": "styled-component-ile-dinamik-css-yazmak",
+      "date": "2022/01/25",
+      "category": "Yazılım"
+    },
+    {
+      "title": "Kişisel Sitemin Yeni Arayüzü",
+      "link": "kisisel-sitemin-yeni-arayuzu",
+      "date": "2022/03/15",
+      "category": "Yazılım"
+    },
+    {
+      "title": "NextJS ile Esnek Layoutlar",
+      "link": "nextjs-ile-esnek-layoutlar",
+      "date": "2022/03/17",
+      "category": "Yazılım"
+    },
+    {
+      "title": "Micro Frontend Nedir?",
+      "link": "micro-frontend-nedir",
+      "date": "2022/03/20",
+      "category": "Yazılım"
+    },
+    {
+      "title": "ViteJS ve performansı",
+      "link": "vitejs-ve-performansi",
+      "date": "2022/03/25",
+      "category": "Yazılım"
+    }
+  ]
+}

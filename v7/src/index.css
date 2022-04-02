@@ -1,0 +1,88 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  article h2 {
+    @apply text-3xl md:text-5xl font-bold text-theme-color mb-6 md:mb-8 mt-12 md:mt-16 text-center md:text-left;
+  }
+
+  article h3 {
+    @apply text-2xl md:text-3xl font-bold text-theme-color mb-3 md:mb-5 mt-10 md:mt-14 text-center md:text-left;
+  }
+
+  article p,
+  article a,
+  article .articleDetails {
+    @apply text-base md:text-xl mb-5;
+  }
+
+  article a {
+    @apply underline underline-offset-2 hover:text-theme-color transition;
+  }
+
+  article ul {
+    @apply leading-loose list-disc pl-5 space-y-2 mb-6;
+  }
+
+  article pre[class*="language-"] {
+    @apply my-12 !important;
+  }
+
+  article code:not([class*="language-"]) {
+    @apply text-base text-theme-color font-bold px-1;
+  }
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+#root {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+header {
+  width: min(100%, 95%);
+  max-width: 1600px;
+  margin-inline: auto;
+}
+
+main {
+  width: min(100% - 40px, 85%);
+  max-width: 1400px;
+  margin-inline: auto;
+}
+
+section {
+  margin-bottom: 120px;
+}
+
+article img,
+article video,
+article iframe {
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px,
+    rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+  border-radius: 4px;
+  margin: 64px auto 80px;
+}
+
+article iframe,
+article pre {
+  max-width: 80%;
+}
+
+article pre {
+  margin: auto !important;
+}
+
+article hr {
+  border-top-color: rgba(0, 0, 0, 0.1);
+  margin: 40px 0;
+}
