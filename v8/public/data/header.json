@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "title": "Ana Sayfa",
+      "link": "/"
+    },
+    {
+      "title": "Blog",
+      "link": "/blog"
+    },
+    {
+      "title": "Projeler",
+      "link": "/projects"
+    },
+    {
+      "title": "Çalışma Masası",
+      "link": "/desk"
+    },
+    {
+      "title": "Hakkında",
+      "link": "/about"
+    }
+  ]
+}

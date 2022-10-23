@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "title": "Turkuaz",
+      "description": "Hızlı esnek ve kolay web sayfaları geliştirmek için tasarlanan güçlü bir CSS Framework",
+      "link": "https://turkuazcss.com/",
+      "category": "Framework"
+    },
+    {
+      "title": "Türkçe Doküman",
+      "description": "Yazılım alanında sıfırdan eğitim veren Türkçe dokümanlar",
+      "link": "https://turkcedokuman.com/",
+      "category": "Web Site"
+    },
+    {
+      "title": "Frontend Bootcamp",
+      "description": "Kodluyoruz.org çatısı altında ilerletilen Frontend eğitiminin ders notları",
+      "link": "https://github.com/omergulcicek/bootcamp",
+      "category": "Eğitim"
+    },
+    {
+      "title": "React",
+      "description": "React Türkçe çevirisi",
+      "link": "https://github.com/omergulcicek/react",
+      "category": "Çeviri"
+    },
+    {
+      "title": "ECMAScript 6",
+      "description": "ECMAScript 6 Türkçe çevirisi",
+      "link": "https://github.com/omergulcicek/es6",
+      "category": "Çeviri"
+    },
+    {
+      "title": "Article Time Ago",
+      "description": "Belirtilen tarih ile anlık tarih arasındaki süreyi sözel olarak yazar",
+      "link": "https://github.com/omergulcicek/article-time-ago",
+      "category": "npm"
+    },
+    {
+      "title": "React Page Progress Bar",
+      "description": "Sayfadaki konumu dairesel bir progress bar'da gösterir ve tıklanıldığında üste çıkar",
+      "link": "https://github.com/omergulcicek/react-page-progress-bar",
+      "category": "npm"
+    },
+    {
+      "title": "Frontend Boilerplate",
+      "description": "Frontend projeleriniz için bir başlangıç kiti",
+      "link": "https://github.com/omergulcicek/frontend-boilerplate",
+      "category": "Başlangıç kiti"
+    },
+    {
+      "title": "Money Format",
+      "description": "Parametre olarak aldığı değeri para formatına çevirir",
+      "link": "https://github.com/omergulcicek/money-format",
+      "category": "Yardımcı kod"
+    },
+    {
+      "title": "Sticky",
+      "description": "Belli bir scroll'dan sonra sayfaya yapışan elementler",
+      "link": "https://github.com/omergulcicek/sticky",
+      "category": "Yardımcı kod"
+    },
+    {
+      "title": "omergulcicek.com",
+      "description": "Kişisel sitemin kaynak kodları",
+      "link": "https://github.com/omergulcicek/omergulcicek.com",
+      "category": "Web site"
+    },
+    {
+      "title": "Tümünü Gör",
+      "description": "Tüm açık kaynak projelerimi incele",
+      "link": "https://github.com/omergulcicek",
+      "category": ""
+    }
+  ]
+}

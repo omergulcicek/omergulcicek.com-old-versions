@@ -1,0 +1,30 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build && next export",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "article-time-ago": "^0.6.0",
+    "get-instagram-photo": "^0.0.1",
+    "gray-matter": "^4.0.3",
+    "markdown-it": "^12.3.2",
+    "next": "^12.1.4",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-parallax-tilt": "^1.6.6",
+    "react-slick": "^0.29.0",
+    "reading-time": "^1.5.0",
+    "slick-carousel": "^1.8.1",
+    "typed.js": "^2.0.12"
+  },
+  "devDependencies": {
+    "@tailwindcss/typography": "^0.5.2",
+    "autoprefixer": "^10.4.4",
+    "postcss": "^8.4.12",
+    "sass": "^1.49.11",
+    "tailwindcss": "^3.0.23"
+  }
+}
