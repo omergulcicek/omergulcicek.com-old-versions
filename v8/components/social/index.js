@@ -53,7 +53,7 @@ const Social = () => {
 
           <div className="flex flex-col items-start">
             <strong className="font-mono text-xl md:text-3xl leading-none font-normal mb-2">
-              750+
+              1000+
             </strong>
             <small className="text-gray-500 font-mono text-sm">
               Instagram takipçisi
