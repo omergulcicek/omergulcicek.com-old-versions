@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Macbook Pro M1",
+    "description": "Dizüstü Bilgisayar",
+    "img": "apple-macbook"
+  },
+  {
+    "title": "Samsung Space",
+    "description": "32' 4K Monitör",
+    "img": "samsung-space"
+  },
+  {
+    "title": "Adore Manager Techno",
+    "description": "Çalışma Koltuğu",
+    "img": "adore-chair"
+  },
+  {
+    "title": "Nurus Otto Basic",
+    "description": "Çalışma Masası",
+    "img": "nurus-desk"
+  },
+  {
+    "title": "Logitech G513 Carbon",
+    "description": "Mekanik Klavye",
+    "img": "logitech-keyboard"
+  },
+  {
+    "title": "Logitech G703",
+    "description": "Kablosuz Mouse",
+    "img": "logitech-mouse"
+  },
+  {
+    "title": "Logitech G733",
+    "description": "Kablosuz Kulaklık",
+    "img": "logitech-headphone"
+  },
+  {
+    "title": "Power Cube",
+    "description": "Priz Çoklayıcı",
+    "img": "powercube"
+  },
+  {
+    "title": "Canon EOS R",
+    "description": "Fotoğraf Makinesi",
+    "img": "canon-eos-r"
+  },
+  {
+    "title": "RF 15-35mm F2.8L",
+    "description": "Lens",
+    "img": "canon-rf-15-35mm"
+  },
+  {
+    "title": "RF 85mm F1.2L",
+    "description": "Lens",
+    "img": "canon-rf-85mm"
+  },
+  {
+    "title": "RF 70-200mm F4L",
+    "description": "Lens",
+    "img": "canon-rf-70-200mm"
+  },
+  {
+    "title": "iPhone 12 Mini",
+    "description": "Cep Telefonu",
+    "img": "apple-iphone"
+  },
+  {
+    "title": "AirPods 3. nesil",
+    "description": "Kablosuz Kulaklık",
+    "img": "apple-airpods"
+  },
+  {
+    "title": "Ikea Skadis",
+    "description": "Çok Amaçlı Pano",
+    "img": "ikea-skadis"
+  }
+]

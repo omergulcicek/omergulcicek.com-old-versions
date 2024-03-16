@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    @apply scroll-smooth;
+  }
+
+  body {
+    font-family: "Inter", sans-serif;
+    @apply flex flex-col min-h-screen;
+  }
+
+  main {
+    @apply flex-1 py-5 sm:py-10 md:py-16;
+  }
+}
+
+@layer components {
+  .container {
+    @apply max-w-[1480px] mx-auto px-4;
+  }
+
+  header a.has-children::after {
+    content: "";
+    @apply block ml-2 mb-[2px] h-[5px] w-[5px] border-b border-r border-neutral-900 dark:border-neutral-100 rotate-45 z-10;
+  }
+}

@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Ana Sayfa",
+    "slug": "/"
+  },
+  {
+    "title": "Blog",
+    "slug": "/blog"
+  },
+  {
+    "title": "Seyahat",
+    "slug": "/travel",
+    "isHiddenMobile": true
+  },
+  {
+    "title": "Hakkında",
+    "slug": "/about"
+  },
+  {
+    "title": "Daha Fazla",
+    "slug": "/more",
+    "children": [
+      {
+        "title": "Seyahat",
+        "slug": "/travel",
+        "isShowMobile": true
+      },
+      {
+        "title": "Eğitim",
+        "slug": "/tutorial"
+      },
+      {
+        "title": "Çalışma Masası",
+        "slug": "/desk"
+      },
+      {
+        "title": "Özgeçmiş",
+        "slug": "/resume"
+      },
+      {
+        "title": "Projeler",
+        "slug": "/projects"
+      },
+      {
+        "title": "Yer İmleri",
+        "slug": "/bookmarks"
+      },
+      {
+        "title": "UI Kit",
+        "slug": "/uikit"
+      }
+    ]
+  }
+]
