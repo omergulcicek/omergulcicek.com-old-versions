@@ -4,6 +4,9 @@ settings:
   autoInstallPeers: true
   excludeLinksFromLockfile: false
 
+overrides:
+  next-mdx-remote: 6.0.0
+
 importers:
 
   .:
@@ -93,7 +96,7 @@ importers:
         specifier: ^16.2.6
         version: 16.2.10(@babel/core@7.28.5)(react-dom@19.2.7(react@19.2.7))(react@19.2.7)
       next-mdx-remote:
-        specifier: ^6.0.0
+        specifier: 6.0.0
         version: 6.0.0(@types/react@19.2.6)(react@19.2.7)
       next-themes:
         specifier: ^0.4.6

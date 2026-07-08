@@ -1,3 +1,5 @@
 {
-  "ignoreCommand": "git diff HEAD^ HEAD --quiet . && exit 1 || exit 0"
+	"installCommand": "pnpm install --frozen-lockfile",
+	"buildCommand": "pnpm run build",
+	"ignoreCommand": "git diff HEAD^ HEAD --quiet . && exit 1 || exit 0"
 }
