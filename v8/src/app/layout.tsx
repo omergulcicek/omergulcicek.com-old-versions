@@ -30,7 +30,7 @@ export const metadata: Metadata = {
 	},
 	publisher: "Ömer Gülçiçek",
 	robots: {
-		index: true,
+		index: false,
 		follow: true
 	},
 	alternates: {

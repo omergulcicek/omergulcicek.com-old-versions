@@ -19,6 +19,10 @@ export default function SEO({ description, lang, meta, keywords, title }) {
             titleTemplate={`%s | Ömer Gülçiçek`}
             meta={[
               {
+                name: `robots`,
+                content: `noindex, follow`,
+              },
+              {
                 name: `description`,
                 content: metaDescription,
               },

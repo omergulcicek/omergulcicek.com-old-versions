@@ -7,6 +7,7 @@ export default function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
+        <meta name="robots" content="noindex, follow" />
         <link rel="shortcut icon" href="/favicon.svg" />
         <title>Ömer Gülçiçek | Frontend Developer</title>
       </Head>
