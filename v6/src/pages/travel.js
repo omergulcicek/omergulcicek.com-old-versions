@@ -1,7 +1,5 @@
 import React from "react"
-import { Istanbul } from 'turkey-district-maps-3'
 import { Svg } from "../components/Styled"
-import "isomorphic-fetch"
 
 import Layout from "../components/Layout"
 import SEO from "../components/Seo"
@@ -18,8 +16,6 @@ export default function App() {
       <p>
         <a href="https://instagram.com/omergulcicek/" target="_blank" rel="noopener noreferrer" title="Instagram">Instagram adresimde</a> fotoğraflarımı takip edebilirsiniz.
       </p>
-
-      <Istanbul />
 
       <small>Bu sayfa geliştirme aşamasında. <br /> Gezdiğim yerlerle ilgili belki makale, belki resimler paylaşırım bilmiyorum. İyi bir fikriniz varsa mail atabilirsiniz :)</small>
 

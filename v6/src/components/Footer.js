@@ -1,5 +1,4 @@
 import React from "react"
-import PageProgressBar from "react-page-progress-bar"
 import { Footer } from "./Styled"
 
 export default function App() {
@@ -53,8 +52,6 @@ export default function App() {
         </svg>
       </a>
     </nav>
-    
-    <PageProgressBar />
     
     <small>
       Bu web sitesinin <a href="https://github.com/omergulcicek/omergulcicek.com" target="_blank" rel="noopener noreferrer">kaynak kodlarına</a> Github üzerinden ulaşabilirsiniz ❤️

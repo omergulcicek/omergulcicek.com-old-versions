@@ -1,6 +1,5 @@
 import React from "react"
 import { Link } from "gatsby"
-import articleTimeAgo from "article-time-ago"
 import convertDate from "../utilities/convertDate"
 import "isomorphic-fetch"
 import { BlogArticle } from "../components/Styled"
@@ -19,7 +18,7 @@ class ArticleItem extends React.Component {
             <BlogArticle key={slug}>
               <div>
                 <span title={convertDate(date)}>
-                  {articleTimeAgo.date(date)}
+                  {convertDate(date)}
                 </span>{" "}
                 • <span>{category}</span>
               </div>

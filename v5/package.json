@@ -5,7 +5,6 @@
   "version": "0.1.0",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
-    "article-time-ago": "^0.6.0",
     "babel-plugin-prismjs": "^2.0.1",
     "babel-plugin-styled-components": "^1.11.1",
     "babel-preset-gatsby": "^0.5.5",
@@ -34,6 +33,9 @@
   },
   "devDependencies": {
     "prettier": "2.0.5"
+  },
+  "overrides": {
+    "sharp": "0.33.5"
   },
   "keywords": [
     "gatsby"
