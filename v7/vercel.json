@@ -2,5 +2,6 @@
   "framework": null,
   "buildCommand": "npm run build",
   "outputDirectory": "out",
-  "installCommand": "npm install"
+  "installCommand": "npm install",
+  "ignoreCommand": "git diff HEAD^ HEAD --quiet . && exit 1 || exit 0"
 }
