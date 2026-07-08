@@ -31,3 +31,4 @@ v6/public/
 **/.DS_Store
 .idea/
 .vscode/
+.vercel
