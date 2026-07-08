@@ -12,6 +12,8 @@ export async function processMdxContent(
 		source: content,
 		options: {
 			parseFrontmatter: true,
+			blockJS: false,
+			blockDangerousJS: true,
 			mdxOptions: {
 				rehypePlugins: [
 					[

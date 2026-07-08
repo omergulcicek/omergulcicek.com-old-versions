@@ -25,6 +25,7 @@ const withBundleAnalyzer = process.env.ANALYZE === "true"
 
 const nextConfig: NextConfig = {
 	output: "export",
+	transpilePackages: ["next-mdx-remote"],
 	images: {
 		remotePatterns: IMAGE_REMOTE_PATTERNS,
 		unoptimized: true
