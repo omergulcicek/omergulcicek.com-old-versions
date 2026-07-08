@@ -23,3 +23,4 @@ This repository is part of my web development journey, showcasing the technologi
 | v7 | 2022 | Next.js | [v7.omergulcicek.com](https://v7.omergulcicek.com) |
 | v8 | 2025 | Next.js | [v8.omergulcicek.com](https://v8.omergulcicek.com) |
 | v9 | 2026 | Next.js | [v9.omergulcicek.com](https://v9.omergulcicek.com) |
+| v10 (current) | 2026 | TanStack Start | [omergulcicek.com](https://omergulcicek.com) |
